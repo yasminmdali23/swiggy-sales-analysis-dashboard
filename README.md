@@ -14,7 +14,9 @@ An interactive, data-driven Excel dashboard designed to analyze Swiggy's sales p
 * **Top Performers:** A horizontal bar chart isolating the "Top 5 Cities by Sales" (Led by Bengaluru at ₹5.46M).
 * **Dietary Preferences:** A donut chart illustrating customer choices between Non-Veg (63%) and Veg (37%) options.
 * **Interactive Slicers:** Dynamic filtering capabilities by Month, Food Category, and Specific Restaurant Names for granular data exploration.
-* 
+
+![Swiggy Dashboard](Screenshot_2026-03-31_123056.png)
+
 
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Advanced Data Modeling, Pivot Tables, Power Query, Slicers, and Custom Charting / UI Design.
